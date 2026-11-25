@@ -16,7 +16,7 @@ while playerstate < 1 | playerstate > 3:
         playerstate = playerchoice
 
 options = [1,2,3]
-
+# Your options
 computerchoice = random.choice(options)
 print(f"Computer choose: {computerchoice}")
 
