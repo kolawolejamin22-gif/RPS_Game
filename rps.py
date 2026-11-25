@@ -1,4 +1,4 @@
-# This is a RPS game
+# This is a RPS gamesssss
 import random
 playerstate = 0
 while playerstate < 1 | playerstate > 3:
