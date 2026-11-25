@@ -1,3 +1,4 @@
+# This is a RPS game
 import random
 playerstate = 0
 while playerstate < 1 | playerstate > 3:
