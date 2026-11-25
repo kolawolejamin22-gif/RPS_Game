@@ -6,6 +6,7 @@ while playerstate < 1 | playerstate > 3:
         "1 for rock\n"
         "2 for paper\n"
         "3 for scissors\n"
+        "4 for ..."
     )
     playerchoice = int(playerinput)
 
