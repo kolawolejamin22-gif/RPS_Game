@@ -2,6 +2,7 @@
 # This is a RPS games
 
 import random
+print("welcome to rock paper scissors")
 playerstate = 0
 while playerstate < 1 | playerstate > 3:
     playerinput = input(
