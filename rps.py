@@ -2,8 +2,6 @@ import random
 
 print("Welcome to RPS Championship")
 
-player_score = 0
-computer_score = 0
 
 while True:
     user_option = input(
